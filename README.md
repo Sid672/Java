@@ -1,4 +1,4 @@
 # Java
 Learn about java.
 
-Day1: 
+Day1: Hello World;
