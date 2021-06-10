@@ -12,9 +12,9 @@ public class test{
 		System.out.println("\nEnter second word:");
 		String b = sc.next();
 
-	    String add = a + b;
+	        String add = a + b;
 		System.out.println("\nOutput string:");
-	    System.out.println(add);
+	        System.out.println(add);
 
 	}
 }
