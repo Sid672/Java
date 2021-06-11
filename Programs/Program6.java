@@ -9,7 +9,7 @@ public class test{
 		float total;
 
 		System.out.println("Enter maximum marks of Subject: ");
-        total = sc.nextFloat();
+		total = sc.nextFloat();
 
 		System.out.println("Enter marks of Subject 1: ");
 		a = sc.nextFloat();
@@ -26,9 +26,9 @@ public class test{
 		System.out.println("Enter marks of Subject 5: ");
 		e = sc.nextFloat();
 
-    float sum = (a + b + c + d + e ) / 5;
-    float percentage = (sum / total);
-    percentage = percentage * 100;
+	        float sum = (a + b + c + d + e ) / 5;
+	        float percentage = (sum / total);
+	        percentage = percentage * 100;
 		System.out.println("Percentage: ");
 		System.out.println(percentage);
 
