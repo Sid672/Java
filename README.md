@@ -2,6 +2,8 @@
 Learn about java.
 
 Day1: Hello World; (Program1)
+
+![](https://miro.medium.com/max/400/1*OohqW5DGh9CQS4hLY5FXzA.png)
  
 Day2: Comments;  (Program2)
 
