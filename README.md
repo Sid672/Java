@@ -8,6 +8,8 @@ Day1: Hello World; (Program1)
 Day2: Comments;  (Program2)
 
 Day3: Arthmetic operations on user int, float, string; (Program3, 4, 5) 
+![](https://media.giphy.com/media/2YleZarb9ABFp4HvtC/giphy.gif)
+
 
 Day4: Percentage calculations and volume of box; (Program6 , 7)
 
