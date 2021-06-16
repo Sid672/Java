@@ -15,3 +15,5 @@ Day3: Arthmetic operations on user int, float, string; (Program3, 4, 5)
 Day4: Percentage calculations and volume of box; (Program6 , 7)
 
 Day5: Simple intrest, km to miles, *C to F, Wapper class; (Program8, 9, 10, 11)
+
+Day6: Using loop print 1-10 numbers, sum of  1 to 10, cal factorial; (Program12, 13, 14)
