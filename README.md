@@ -33,3 +33,7 @@ Day10: Greater number b/w 2 numbers; (Program15)
 Day11: Even/Odd, Even/odd, Divisible by 5, Greater number b/w 3, root of quadratic eqn; (Program16, 17, 18, 19, 20) 
 
 Day12: Leap Year; (Program21)
+
+Day13: 
+
+Day14: Loop for even and odd numbers(Program25, 26, 27, 28)
