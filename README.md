@@ -38,4 +38,4 @@ Day13: Basic loops, Natural number print, Natural number print in reverse order;
 
 Day14: Loop for even and odd numbers(Program25, 26, 27, 28)
 
-Day15:
+Day15: Table, Factorial, Sum of 1st n even no., Sum of 1st n odd no.; (Program 29, 30, 31, 32)  
