@@ -34,6 +34,8 @@ Day11: Even/Odd, Even/odd, Divisible by 5, Greater number b/w 3, root of quadrat
 
 Day12: Leap Year; (Program21)
 
-Day13: 
+Day13: Basic loops, Natural number print, Natural number print in reverse order; (Program 22, 23, 24)
 
 Day14: Loop for even and odd numbers(Program25, 26, 27, 28)
+
+Day15:
