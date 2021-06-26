@@ -41,3 +41,5 @@ Day14: Loop for even and odd numbers(Program25, 26, 27, 28)
 Day15: Table, Factorial, Sum of 1st n even no., Sum of 1st n odd no.; (Program 29, 30, 31, 32)  
 
 <img src = https://cdn-skill.splashmath.com/panel-uploads/GlossaryTerm/90759ec27b0e4c9db217b757fc386bb3/1564725505_2-01.png alt = "if" width = "400"/></img>
+
+Day16: Cal. a^n, better way a^n, count digits. (Program 33, 34, 35)
