@@ -43,3 +43,5 @@ Day15: Table, Factorial, Sum of 1st n even no., Sum of 1st n odd no.; (Program 2
 <img src = https://cdn-skill.splashmath.com/panel-uploads/GlossaryTerm/90759ec27b0e4c9db217b757fc386bb3/1564725505_2-01.png alt = "if" width = "400"/></img>
 
 Day16: Cal. a^n, better way a^n, count digits. (Program 33, 34, 35)
+
+Day17: Sum of digits, Reverse integer, Armstrong strings; (Program 36, 37, 38)
