@@ -47,3 +47,5 @@ Day16: Cal. a^n, better way a^n, count digits. (Program 33, 34, 35)
 Day17: Sum of digits, Reverse integer, Armstrong strings; (Program 36, 37, 38)
 
 Day18: LCM, HCF; (Program 39, 40)
+
+Day19: Prime, Better Primecheck, Prime no. in range; (Program 41, 42, 43)
