@@ -49,3 +49,5 @@ Day17: Sum of digits, Reverse integer, Armstrong strings; (Program 36, 37, 38)
 Day18: LCM, HCF; (Program 39, 40)
 
 Day19: Prime, Better Primecheck, Prime no. in range; (Program 41, 42, 43)
+
+<img src = https://www.mathcad.com/-/media/Images/Blog/post/mathcad-blog/2020/june/prime-numbers-cover.png alt = "if" width = "400"/></img>
