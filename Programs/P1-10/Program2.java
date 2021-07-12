@@ -1,3 +1,4 @@
+//program to define different types of comments.
 public class Program2{
   public static void main(String [] agrs)
   {
