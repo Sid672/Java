@@ -1,3 +1,4 @@
+//Program for percentage calculation
 import java.util.Scanner;
 
 public class Program6{
