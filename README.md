@@ -55,3 +55,5 @@ Day19: Prime, Better Primecheck, Prime no. in range; (Program 41, 42, 43)
 Day20: Pattern Using Loop; (Program 44)
 
 Day21: New Pattern using loop; (Program 45)
+
+Day22: Star number pattern; (program 46)
