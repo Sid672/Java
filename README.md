@@ -57,3 +57,7 @@ Day20: Pattern Using Loop; (Program 44)
 Day21: New Pattern using loop; (Program 45)
 
 Day22: Star number pattern; (program 46)
+
+Day23: Pattern program; (Program 47, 48, 49, 50)
+
+Day24: Pattern program; (Program 51, 52)
