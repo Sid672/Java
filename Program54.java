@@ -5,6 +5,7 @@
 // 0 3 6 9 
 // 0 4 8 12 16
 
+
 public class Program54{
 	public static void main(String args[])
 	{
