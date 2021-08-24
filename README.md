@@ -61,3 +61,8 @@ Day22: Star number pattern; (program 46)
 Day23: Pattern program; (Program 47, 48, 49, 50)
 
 Day24: Pattern program; (Program 51, 52)
+
+Day25: Pattern program; (Program 54)
+
+Day26: factorial program and area of circle using function; (Program 55)
+
