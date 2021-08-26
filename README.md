@@ -1,3 +1,4 @@
+
 # Java
 Learn about java.
 
@@ -66,5 +67,5 @@ Day25: Pattern program; (Program 54)
 
 Day26: factorial program and area of circle using function; (Program 55)
 
-Day27: Program to ;
+Day27: Program to calculate sum of n natural number using function; (Program 56)
 
