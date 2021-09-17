@@ -72,5 +72,3 @@ Day27: Program to calculate sum of n natural number using function; (Program 56)
 Day28: Program to take input and print it using array; (Program 57)
 
 Day29: Program to sum even and odd using array. (Program 59)
-
-Day30: New program is add using pull req.;
