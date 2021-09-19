@@ -1,3 +1,7 @@
+/**
+* Programs taking input using args array 
+* finding product of array
+*/
 public class test{
 	public static void main(String[] args)
 	{
