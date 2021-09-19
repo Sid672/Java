@@ -1,3 +1,4 @@
+/** program to check if a year is a leap year */
 import java.util.Scanner;
 
 public class test{

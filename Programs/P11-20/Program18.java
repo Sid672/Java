@@ -1,3 +1,4 @@
+/** program to check if a number is divisible by 5 or not divisible by 5.*/
 import java.util.Scanner;
 
 public class test{

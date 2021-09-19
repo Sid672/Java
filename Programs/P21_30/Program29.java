@@ -1,4 +1,4 @@
-// Program to print table of user's choice 
+/** Program to print table of user's choice */
 
 import java.util.Scanner;
 
