@@ -1,4 +1,4 @@
-/** Program to print N even natural numbers:*//
+/** Program to print N even natural numbers:*/
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class test{
 	{
 		Scanner sc = new Scanner(System.in);
      
-        System.out.println("Enter Number: ");
+                System.out.println("Enter Number: ");
 		int n = sc.nextInt();
 
 		for (int i = 1; i <= 2 * n; i++)
