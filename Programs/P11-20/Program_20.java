@@ -1,8 +1,8 @@
+/** program to find roots of a quadratic equation  */
 
 import java.util.Scanner;
 import java.lang.Math;
 
-/** program to find roots of a quadratic equation  */
 public class test{
 	public static void main(String args[])
 	{
