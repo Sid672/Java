@@ -1,5 +1,7 @@
-/**program to check if a number is greater than or smaller than the other number.
-* using conditional statements */
+/**program to check if a number is greater 
+*  than or smaller than the other number.
+*  using conditional statements 
+*/
 
 import java.util.Scanner;
 
@@ -16,19 +18,22 @@ public class test{
 
         if (a > b)
         {
-            /** if first number is greater than second number then this block will be executed.*/
+            /** if first number is greater than second 
+            number then this block will be executed.*/
             System.out.println(a + " is greater than " + b);
         }
 
         else if (a == b)
         {
-            /** if first number is equal to second number than this block will be executed.*/
+            /** if first number is equal to second
+            number than this block will be executed.*/
             System.out.println(a + " is equal than " + b);   
         }
 
         else
         {
-            /** if both the above conditions are false then this block will be executed.*/
+            /** if both the above conditions are false
+            then this block will be executed.*/
             System.out.println(b + " is greater than " + a);
         }
 
