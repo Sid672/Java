@@ -1,4 +1,4 @@
-// Program to print N odd natural numbers in reverse order:
+/** Program to print N odd natural numbers in reverse order:*/
 
 import java.util.Scanner;
 

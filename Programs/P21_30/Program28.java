@@ -1,4 +1,4 @@
-// Program to print N odd natural numbers:
+/** Program to print N odd natural numbers:*/
 
 import java.util.Scanner;
 

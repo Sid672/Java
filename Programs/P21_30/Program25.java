@@ -1,4 +1,4 @@
-// Program to print N even natural numbers:
+/** Program to print N even natural numbers:*//
 
 import java.util.Scanner;
 

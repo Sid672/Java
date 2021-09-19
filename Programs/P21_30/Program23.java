@@ -1,3 +1,4 @@
+/** Basic loops, to print natural numbers */
 public class test{
     public static void main(String []args)
     {

@@ -1,3 +1,4 @@
+/**  program to print the numbers from 1 to 10 */
 public class test{
 	public static void main(String []args)
 	{

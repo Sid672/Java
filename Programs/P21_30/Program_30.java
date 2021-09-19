@@ -1,5 +1,5 @@
-// Program to print factorial of a number.
-// program works for upto 19 only.
+/** Program to print factorial of a number.
+* program works for upto 19 only.*/
 
 import java.util.Scanner;
 
