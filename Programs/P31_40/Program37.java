@@ -1,4 +1,4 @@
-//Program to reverse a number
+/** Program to reverse a number*/
 import java.util.Scanner;
 
 public class test{

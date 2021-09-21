@@ -1,9 +1,9 @@
-//Program to print pattern no. 29
-//     A
-//    CB
-//   FED
-//  JIHG
-// ONMLK
+  /** Program to print pattern no. 29
+     A
+    CB
+   FED
+  JIHG
+ ONMLK    */
 
 import java.util.Scanner;
 

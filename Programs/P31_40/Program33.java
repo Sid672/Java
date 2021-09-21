@@ -1,4 +1,4 @@
-// Program to calcuate x to the power of y.
+/** Program to calcuate x to the power of y.*/
 
 import java.util.Scanner;
 

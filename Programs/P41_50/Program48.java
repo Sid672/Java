@@ -1,13 +1,13 @@
-//Program to print pattern 30
-//     *
-//    **
-//   ***
-//   |**
-// * | *
-// **|  
-// ***  
-// **   
-// *    
+/** Program to print pattern 30
+     *
+    **
+   ***
+   |**
+ * | *
+ **|
+ ***
+ **
+ *            */
 
 import java.util.Scanner;
 

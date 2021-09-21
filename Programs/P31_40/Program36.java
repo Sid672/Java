@@ -1,4 +1,4 @@
-//Program to calcualte sum of all digits of a number. 
+/** Program to calcualte sum of all digits of a number. */
 import java.util.Scanner;
 
 public class test{

@@ -1,4 +1,4 @@
-//Program to calculate HCF
+/** Program to calculate HCF */
 
 import java.util.Scanner;
 

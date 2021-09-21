@@ -1,4 +1,4 @@
-//Program to calculate LCM
+/** Program to calculate LCM */
 
 import java.util.Scanner;
 

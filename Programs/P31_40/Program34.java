@@ -1,5 +1,5 @@
-// Program to calcuate x to the power of y.
-//Time Complexicity: O(log(n))
+/** Program to calcuate x to the power of y.
+* Time Complexicity: O(log(n)) */
 import java.util.Scanner;
 
 public class test{

@@ -1,4 +1,4 @@
-//Program to find Armstrong number upto 1000;
+/** Program to find Armstrong number upto 1000;*/
 
 public class test{
     public static void main(String args[])
