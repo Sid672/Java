@@ -1,11 +1,11 @@
-//This is a program file to print pattern 31
-//    1   
-//   A B  
-//  1 2 3 
-// A B C D
+  /** This is a program file to print pattern 31
+    1
+   A B
+  1 2 3
+ A B C D     */
 
-//This program work better for odd number than even no.
-/* Problem is n is even then i become odd, 
+/** This program work better for odd number than even no.
+ Problem is n is even then i become odd,
 because of this an extra line will be printed 
 that makes pattern unsymmetric.
 */

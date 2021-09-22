@@ -1,9 +1,9 @@
-//Program to pattern no. 32
-// *   *
-//  * * 
-//   *  
-//  * * 
-// *   *
+/** Program to pattern no. 32
+ *   *
+  * *
+   *
+  * *
+ *   *      */
 
 import java.util.Scanner;
 

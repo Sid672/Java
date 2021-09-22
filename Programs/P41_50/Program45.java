@@ -1,8 +1,8 @@
-//Program to draw pattern no. 26
-// A
-// BA
-// CBA
-// DCBA
+  /** Program to draw pattern no. 26
+ A
+ BA
+ CBA
+ DCBA  */
 
 public class test{
   public static void main(String args[])

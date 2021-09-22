@@ -1,4 +1,4 @@
-// Program to print sum of first n even number.
+/** Program to print sum of first n even number.*/
 
 import java.util.Scanner;
 

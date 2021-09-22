@@ -1,4 +1,4 @@
-// Program to print sum of first n odd number.
+/** Program to print sum of first n odd number.*/
 
 import java.util.Scanner;
 

@@ -1,14 +1,14 @@
-// Program to print pattern
-// Diagram is symetric for odd numbers.
-// Time Complexity: O(n^2);
-// If n = 7 pattern is given below: 
-// *******
-// *     *
-// * *** *
-// * * * *
-// * *** *
-// *     *
-// *******
+/** Program to print pattern
+ Diagram is symetric for odd numbers.
+ Time Complexity: O(n^2);
+ If n = 7 pattern is given below:
+ *******
+ *     *
+ * *** *
+ * * * *
+ * *** *
+ *     *
+ *******   */
 
 import java.util.Scanner;
 

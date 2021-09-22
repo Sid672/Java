@@ -1,4 +1,4 @@
-// Program to calcuate number of digits in a number.
+/** Program to calcuate number of digits in a number.*/
 
 import java.util.Scanner;
 

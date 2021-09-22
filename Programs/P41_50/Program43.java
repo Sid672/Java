@@ -1,4 +1,4 @@
-//Program to print prime number in a range.
+/** Program to print prime number in a range.*/
 
 import java.util.Scanner;
 
