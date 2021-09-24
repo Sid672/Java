@@ -1,5 +1,8 @@
-//Link of the question is mentioned below
-//https://leetcode.com/problems/missing-number/
+/**
+*Author: aschkun [https://github.com/aschkun];
+*Link of the question is mentioned below
+*https://leetcode.com/problems/missing-number/
+**/
 
 
 class Solution {
