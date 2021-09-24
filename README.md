@@ -1,7 +1,6 @@
   
 # Java
-Learn about java.
-
+<img src="https://starbridgepartners.com/wp-content/uploads/2019/10/Java-banner-002-e1572444968364-900x350.jpg" alt="java" width="900" height = "200"/></img>
 
 ## Steps to contribute.
 1) Fork the repository.
