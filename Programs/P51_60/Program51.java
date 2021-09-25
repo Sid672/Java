@@ -1,9 +1,10 @@
-//Program to print pattern no. 33
-// ABCDEFG
-// ABC EFG
-// AB   FG
-// A     G
-
+/** 
+ *  Program to print pattern no. 33
+ *  ABCDEFG
+ *  ABC EFG
+ *  AB   FG
+ *  A     G
+ */
 import java.util.Scanner;
 
 public class Program51{
