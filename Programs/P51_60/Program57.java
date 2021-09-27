@@ -1,4 +1,5 @@
-//To take input in array;
+/** To take input in array. */
+
 import java.util.Scanner;
 
 public class test{

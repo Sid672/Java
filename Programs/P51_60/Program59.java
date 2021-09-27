@@ -1,4 +1,4 @@
-//Program with use of array
+/** Program with use of array */
 
 import java.util.Scanner;
 

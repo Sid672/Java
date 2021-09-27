@@ -1,5 +1,7 @@
-// Program to print sum of n natural no. using function.
-// take nothing and return nothing.
+/** 
+  * Program to print sum of n natural no. using function.
+  * take nothing and return nothing.
+  */
 
 import java.util.Scanner;
 

@@ -1,1 +1,1 @@
-//This is a program for new file.
+/** This is a program for new file. */

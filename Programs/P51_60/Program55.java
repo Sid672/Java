@@ -1,6 +1,7 @@
-//This is a program to calculate
-//area of circle using function
-
+/** 
+  * This is a program to calculate
+  * area of circle using function
+  */
 
 import java.util.Scanner;
 

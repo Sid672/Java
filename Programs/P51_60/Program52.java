@@ -1,9 +1,11 @@
-//Program to print pattern 34;
-// 1    
-// 62   
-// 1073  
-// 131184 
-// 15141295
+/** 
+  * Program to print pattern 34;
+  * 1    
+  * 62   
+  * 1073  
+  * 131184 
+  * 15141295
+  */
 
 import java.util.Scanner;
 
