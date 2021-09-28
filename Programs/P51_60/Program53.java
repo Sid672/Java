@@ -1,5 +1,7 @@
-//Program to calculate factorial
-//of a number using git
+/** 
+  * Program to calculate factorial
+  * of a number using git
+  */
 
 import java.util.Scanner;
 
