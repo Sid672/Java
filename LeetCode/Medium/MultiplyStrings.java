@@ -1,4 +1,3 @@
-package com.company;
 // https://leetcode.com/problems/multiply-strings/
 
 import java.math.BigInteger;
@@ -11,7 +10,6 @@ public class MultiplyStrings {
         System.out.println(multiply(num1, num2));
     }
 
-    // Found the use of this class on stackoverflow, since this question requires very large integer value around of length 200
     static String multiply(String num1, String num2) {
         BigInteger n1 = new BigInteger(num1);
         BigInteger n2 = new BigInteger(num2);
