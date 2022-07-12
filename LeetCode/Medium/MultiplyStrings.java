@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/multiply-strings/
+// multiply-strings (Leetcode Problem)
 
 import java.math.BigInteger;
 
