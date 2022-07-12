@@ -1,4 +1,4 @@
-// Q: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+// Q:letter-combinations-of-a-phone-number (Leetcode)
 // A:
 //Username: parth-gpt
 import java.util.*;
